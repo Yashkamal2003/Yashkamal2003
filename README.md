@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on my skills and  looking for a job<br>👯 I’m looking to collaborate as a  Software Engineer
-<br>🌱 I’m currently learning Data Structure Algorithms<br>💬 Ask me aboutReact,Nodejs,ThreeJS,WebAnimations,Software engeneering<br>⚡ Fun fact i am lazy but smart <br>📫 Reach me on officialyashkamal@gmail.com
+<br>🌱 I’m currently learning Data Structure Algorithms<br>💬 Ask me aboutReact,Nodejs,ThreeJS,WebAnimations,Software engeneering <br>📫 Reach me on officialyashkamal@gmail.com
 
 
 ## 🌐 Socials:
