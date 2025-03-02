@@ -1,5 +1,5 @@
 <img src="https://camo.githubusercontent.com/2087922b97e3d530de642001a124ad5c12527aa63793b2d219716cae713c41cb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3832382f312a4f785437556a4977686b6c4b453864385346796f37672e676966" alt="MasterHead" data-canonical-src="https://miro.medium.com/max/828/1*OxT7UjIwhklKE8d8SFyo7g.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-# 💫 About Me: Hii I am Yash kamal<br>
+Hi 👋, I'm Yash kamal<br>
 🔭 I’m currently working on my skills and  looking for a job<br>👯 I’m looking to collaborate as a  Software Engineer
 <br>🌱 I’m currently learning Data Structure Algorithms<br>💬 Ask me aboutReact,Nodejs,ThreeJS,WebAnimations,Software engeneering <br>📫 Reach me on officialyashkamal@gmail.com
 
