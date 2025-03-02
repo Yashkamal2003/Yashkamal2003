@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full Stack Development<br>👯 I’m looking to collaborate on  Software Engineer
+🔭 I’m currently working on my skills and  looking for a job<br>👯 I’m looking to collaborate on  Software Engineer
 <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Data Structure Algorithms<br>💬 Ask me aboutReact,Nodejs,ThreeJS,WebAnimations,Software engeneering<br>⚡ Fun fact i am lazy but smart
 
 
